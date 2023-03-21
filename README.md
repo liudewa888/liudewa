@@ -107,6 +107,8 @@
 
 12. js数据类型判断
 
+13. Array.prototype.reduce实现
+
 
 ## node
 1. node内存溢出与检测
