@@ -44,7 +44,7 @@
 
 - template 通过 comilertoFunction 转成 render 函数字符 过程:
 - parse 成 ast 正则 1 普通值 2 表达式 3 文本
-- 优化: 找到静态节点 做标记, 利好虚拟 dom
+- 优化: 找到静态节点 做标记, 利于虚拟 dom 比较更新
 - 生成 render 函数字符 通过 new Function('render')
 
 10. Vue3 性能优化
